@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   resources :users
+  ar
 
   get 'a/a' => 'a#a'
   # The priority is based upon order of creation: first created -> highest priority.
